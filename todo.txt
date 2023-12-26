@@ -1,0 +1,2 @@
+1. Make tow lesson for Git
+2. Learn tow chapter about Git
